@@ -10,7 +10,7 @@
 
 
 - `git commit -m 'message'`
-    - staging area에 올라간 파일들의 스냅샷으 찍어 `.git directory`에 저장
+    - staging area에 올라간 파일들의 스냅샷을 찍어 `.git directory`에 저장
     - 일반적으로 `-m` 옵션을 넣어서 커밋메시지를 추가하여 등록
 
 - `git push origin master`
